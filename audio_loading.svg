@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Path</title>
+    <defs>
+      <style>
+        @keyframes leaf1{
+            0% { 
+              transform: rotate(0turn);
+            }
+            100% {
+              transform: rotate(1turn);
+            } 
+        }
+
+        .loading { 
+            animation: leaf1 1s linear infinite;
+            transform-origin: center;
+        }
+      </style>
+    </defs>
+    <desc>Created with Sketch.</desc>
+    <g class="loading" id="民汉翻译-3期（v3.3）" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-256.000000, -252.000000)" fill-rule="nonzero">
+            <g id="播放加载中" transform="translate(256.000000, 252.000000)">
+                <rect id="Path" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="40" height="40"></rect>
+                <g  id="jiazai" transform="translate(4.000000, 4.000000)" fill="#999999">
+                    <path d="M15.9996151,32 C7.17709325,32 0,24.8229067 0,16.0003849 C0,7.177863 7.17709325,0 15.9996151,0 C16.634725,0 17.1499821,0.51525708 17.1499821,1.15036691 C17.1499821,1.78547674 16.634725,2.30073382 15.9996151,2.30073382 C8.44581023,2.30073382 2.30073382,8.44654327 2.30073382,16.0003482 C2.30073382,23.5541531 8.44581023,29.6992295 15.9996151,29.6992295 C23.5534201,29.6992295 29.6992295,23.5541531 29.6992295,16.0003482 C29.6992295,12.2032137 28.1811308,8.67195448 25.4250296,6.05890701 C24.964421,5.62153593 24.9449587,4.8935493 25.3815967,4.43220768 C25.8182347,3.97009633 26.5469544,3.95213674 27.008296,4.38877478 C30.2272416,7.44146581 32,11.565135 32,16.0003482 C32,24.8229067 24.822137,32 15.9996151,32 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
